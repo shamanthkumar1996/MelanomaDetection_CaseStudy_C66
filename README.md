@@ -1,1 +1,1 @@
-# MelanomaDetection_CaseStudy_C64
+# MelanomaDetection_CaseStudy_C66
