@@ -35,9 +35,6 @@ The data set contains the following diseases:
 - Also more number epochs adds more complexity which is further increasing the accuracy.
 
 
-## Acknowledgements
-This assignment was done while doing EPGM in Artificial Intelligence and Machine Learning from IIIT Bangalore and Upgrad.
-
 
 
 
