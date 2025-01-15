@@ -39,8 +39,6 @@ The data set contains the following diseases:
 This assignment was done while doing EPGM in Artificial Intelligence and Machine Learning from IIIT Bangalore and Upgrad.
 
 
-## Contact
-Created by [@prashanthector] - feel free to contact me!
 
 
 <!-- Optional -->
